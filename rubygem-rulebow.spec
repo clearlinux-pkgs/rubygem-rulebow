@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rulebow
 Version  : 0.4.0
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/rulebow-0.4.0.gem
 Source0  : https://rubygems.org/downloads/rulebow-0.4.0.gem
 Summary  : No detailed summary available
